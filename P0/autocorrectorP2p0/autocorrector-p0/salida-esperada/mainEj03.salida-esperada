@@ -1,0 +1,4 @@
+Exercise 3:
+binary8bits(28,...) = 00011100
+binary8bits(187,...) = 10111011
+binary8bits(255,...) = 11111111

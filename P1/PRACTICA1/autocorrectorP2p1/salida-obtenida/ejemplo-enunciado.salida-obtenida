@@ -1,0 +1,139 @@
+-----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Farm: west farm
+-----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter field name: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter field name: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter field name: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter field name: Error, field name repeated
+-----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter android speed: Enter android model: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter android speed: Enter android model: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter android speed: Enter android model: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter android speed: Enter android model: -----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Farm: west farm
+{Field: Kawees(0)
+}
+{Field: Lichoogs(0)
+}
+{Field: Zaanahor(0)
+}
+[x-75 sn=100 s=100 st=1]
+[x-75 sn=101 s=100 st=1]
+[HC-2 sn=102 s=78 st=1]
+[JK9 sn=103 s=35 st=1]
+-----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Enter field name: Products: Enter field name: Products: Enter field name: Products: Enter field name: ---- start ----
+Farm: west farm
+{Field: Kawees(200)
+}
+{Field: Lichoogs(500)
+}
+{Field: Zaanahor(1200)
+}
+[x-75 sn=100 s=100 st=1]
+[x-75 sn=101 s=100 st=1]
+[HC-2 sn=102 s=78 st=1]
+[JK9 sn=103 s=35 st=1]
+---- distribution ----
+Farm: west farm
+{Field: Kawees(200)
+  [HC-2 sn=102 s=78 st=0]
+}
+{Field: Lichoogs(500)
+  [x-75 sn=101 s=100 st=0]
+}
+{Field: Zaanahor(1200)
+  [x-75 sn=100 s=100 st=0]
+  [JK9 sn=103 s=35 st=0]
+}
+---- end ----
+Farm: west farm
+{Field: Kawees(0)
+}
+{Field: Lichoogs(0)
+}
+{Field: Zaanahor(525)
+}
+[HC-2 sn=102 s=78 st=1]
+[x-75 sn=101 s=100 st=1]
+[x-75 sn=100 s=100 st=1]
+[JK9 sn=103 s=35 st=1]
+-----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: Farm: west farm
+{Field: Kawees(0)
+}
+{Field: Lichoogs(0)
+}
+{Field: Zaanahor(525)
+}
+[HC-2 sn=102 s=78 st=1]
+[x-75 sn=101 s=100 st=1]
+[x-75 sn=100 s=100 st=1]
+[JK9 sn=103 s=35 st=1]
+-----========== Farm manager ==========-----
+1- List farm info
+2- Add field
+3- Add android
+4- Start working day
+q- Quit
+Option: 

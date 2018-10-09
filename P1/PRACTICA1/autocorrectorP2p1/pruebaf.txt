@@ -1,0 +1,112 @@
+2
+uno
+2
+dos
+2
+tres
+2
+cuatro
+2
+cinco
+2
+seis
+2
+siete
+2
+ocho
+2
+nueve
+2
+occho
+2
+     nueve
+2
+  nueve
+2
+tre s
+3
+100
+x-75
+3
+255
+HC-2
+3
+34
+JK9
+3
+176
+x-75
+3
+450
+JK9
+3
+120
+x-75
+3
+90
+HC-2
+3
+123
+XAR-25
+3
+798
+fx-7
+4
+uno
+5500
+dos
+5000
+cuatro
+2500
+siete
+7500	
+ocho
+550
+     nueve
+350
+tre s
+6500
+q
+1
+q
+
+
+
+
+
+
+/*
+
+  vector<int> iguales;
+  vector<int> distintos0;
+
+  if(dif0(farm,fieldNum,distintos0)){
+
+    while(farm.androids.size()>0){
+      int min=INT_MAX;
+      int max=0;
+      int pos,tamanyo;
+	
+	for(size_t i=0;i<farm.fields.size();i++){
+      	if(lk(i,distintos0)){
+        tamanyo=farm.fields[i].androids.size();
+          if(tamanyo<min)
+            min=tamanyo;
+          if(tamanyo==min)
+            iguales.push_back(i);
+        }                              //ESTO ES UNA MIERDA, MIRAR CAMPOS A 0
+      }
+
+      for(size_t i=0;i<iguales.size();i++){
+      	if(lk(i,distintos0)){
+        	if(farm.fields[iguales[i]].products>max){
+          	  max=farm.fields[iguales[i]].products;
+          	  pos=i;  //POSICION DEL CAMPO CON MAS PRODUCTOS Y NUM IGUAL DE ANDROIDES
+        	}
+      	}
+      }
+      iguales.clear();
+      distribution(farm,pos);
+    }
+  } 
+}*/

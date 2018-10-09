@@ -1,0 +1,4 @@
+Exercise 1:
+getIntermediate(1,-7,4)    1
+getIntermediate(15,-2,14)    14
+getIntermediate(0,0,1)    0

@@ -1,0 +1,7 @@
+Exercise 4:
+extractData("12345678:Perez Perez, Pedro:  12.4: C/Rue del Percebe, no. 13: Aviador")
+Perez Perez, Pedro
+ Aviador
+extractData("c4d3n4 c0n num3r0s: Perez; Perez+- * Pedro: ab12.4:   Piloto X-Wing")
+ Perez; Perez+- * Pedro
+   Piloto X-Wing

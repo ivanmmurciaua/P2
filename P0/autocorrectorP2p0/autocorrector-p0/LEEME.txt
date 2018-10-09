@@ -1,0 +1,31 @@
+Programación 2 - Autocorrector práctica 0
+=====================================
+
+Para pasar el autocorrector, hay que copiar el fichero de la práctica
+(repaso.cc) en el mismo directorio y ejecutar desde el terminal:
+
+./autocorrectorP2p0.sh
+
+El proceso de corrección sigue los siguientes pasos:
+
+1- Se generan y compilan unos programas auxiliares (mata y comparefiles)
+2- Se compilan y ejecutan las pruebas del directorio "pruebas" y se almacenan los
+resultados en el directorio "salida-obtenida". Se compara la salida obtenida con
+la salida correcta que se encuentra en el directorio "salida-esperada".
+
+Cada prueba es un main que prueba solamente un ejercicio concreto, por lo que es
+posible incluso sacar buena nota sin haber hecho todos los ejercicios.
+
+El autocorrector usa dos programas auxiliares: "mata", para parar la
+práctica en caso de que se cuelgue, y "comparefiles" para comparar dos
+ficheros de texto sin tener en cuenta espacios, tabuladores ni saltos de linea.
+Estos programas son generados y compilados por el propio autocorrector.
+
+-----------------------------------------------------------
+
+NOTA IMPORTANTE: Para ejecutar el autocorrector es necesario tener un
+sistema operativo Linux con valgrind instalado.  En caso de no tener el
+programa valgrind, puedes instalarlo mediante la siguiente instrucción:
+
+sudo apt-get install valgrind
+
